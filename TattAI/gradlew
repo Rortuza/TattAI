@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+# Placeholder gradlew; generate via Android Studio if desired.
+echo "Run this project from Android Studio, or generate the Gradle wrapper scripts."
